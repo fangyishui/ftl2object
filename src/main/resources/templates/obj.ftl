@@ -15,8 +15,6 @@ public class ${className} {
         */
         @FixedLengthProtocolProperty(length = ${tc.strLength})
         private String ${tc.name};
-
-
     </#list>
 
 }
